@@ -1,0 +1,14 @@
+/* Index.css */
+body {
+    background-image: url("https://media.istockphoto.com/id/1146986079/photo/red-blue-lighted-brick-wall-spot-light-brick-wall-texture-background-pattern-brick-painted.jpg?s=612x612&w=0&k=20&c=pLhsLTXFjA18YwISyIVWQuXkIr2tFo6d9OE1kUQ5v5Q%3D");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+}
+.cLabel:hover{
+    background-color: rgb(95, 95, 250);
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
